@@ -1,0 +1,10 @@
+output_files/
+logs/
+*.xlsx
+*.csv
+.env
+*.env
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
